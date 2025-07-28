@@ -1,3 +1,5 @@
 Big Data & analytics
 Hadoop
 AWS
+
+Hive Data Warehouse
