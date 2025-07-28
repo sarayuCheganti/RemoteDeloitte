@@ -3,3 +3,4 @@ Hadoop
 AWS
 
 Hive Data Warehouse
+New Batch of Deloitte
